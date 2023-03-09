@@ -1,3 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Colors */
+.bg-gris-claro {
+	background-color: #f8f9fa;
+}
+.bg-gris-oscuro {
+	background-color: #212529;
+}
+.bg-gris-overlay {
+	background-color: #00000027;
+}
+.bg-resalto {
+	background-color: #c6a58e;
+}
+.text-resalto {
+	color: #c6a58e;
+}
+
 .App {
   text-align: center;
 }

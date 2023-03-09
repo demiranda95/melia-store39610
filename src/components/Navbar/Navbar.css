@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Colors */
+.bg-gris-claro {
+	background-color: #f8f9fa;
+}
+.bg-gris-oscuro {
+	background-color: #212529;
+}
+.bg-gris-overlay {
+	background-color: #00000027;
+}
+.bg-resalto {
+	background-color: #c6a58e;
+}
+.text-resalto {
+	color: #c6a58e;
+}
+
+
+section {
+	background-color: white;
+}
+
+.Logo {
+	max-width: 15rem;
+}
+
+.navbar li a {
+    color: #c6a58e;
+}
+
+.active-white {
+    color: white;
+}
