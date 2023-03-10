@@ -1,11 +1,11 @@
 import './App.css'
-import Navbar from './components/Navbar/Navbar'
+import SiteNavbar from './components/SiteNavbar/SiteNavbar'
 import ItemListContainer from './components/ItemListContainer/ItemListContainer'
 
 function App() {
   return (
     <div className='App'>
-      <Navbar />
+      <SiteNavbar />
       <ItemListContainer greeting={'Bienvenidos a Melia Store'} />
     </div>
   )

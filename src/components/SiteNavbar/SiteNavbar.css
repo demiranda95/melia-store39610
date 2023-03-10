@@ -26,10 +26,14 @@ section {
 	max-width: 8rem;
 }
 
-.navbar li a {
+.nav-item {
     color: #c6a58e;
 }
 
 .active-white {
     color: white;
+}
+
+NavDropdown {
+	background-color: #212529;
 }
