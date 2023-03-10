@@ -1,4 +1,3 @@
-import 'bootstrap'
 import logo from '../../assets/logo/logo-white.png'
 import './Navbar.css'
 import CartWidget from '../CartWidget/CartWidget'

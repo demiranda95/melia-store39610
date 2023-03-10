@@ -1,6 +1,5 @@
 import './App.css'
 import Navbar from './components/Navbar/Navbar'
-import 'bootstrap'
 import ItemListContainer from './components/ItemListContainer/ItemListContainer'
 
 function App() {

@@ -1,14 +1,10 @@
-import 'bootstrap'
-import { FaShoppingCart } from 'react-icons/fa'
 import './CartWidget.css'
 
 const CartWidget = () => {
   return (
-    <div className='text-center'>
-      <a className='btn btn-dark border-0' href='#none'>
-        <FaShoppingCart /> 0
-      </a>
-    </div>
+    <a className='cartBtn text-resalto' href='#cart'>
+      <i className='bi bi-cart' />0
+    </a>
   )
 }
 

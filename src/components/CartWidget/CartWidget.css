@@ -14,3 +14,33 @@
 .text-resalto {
 	color: #c6a58e;
 }
+
+.cartBtn {
+	height: 3rem;
+	width: 3rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 0.5rem;
+	font-size: 1rem;
+	color: #c6a58e;
+	text-decoration: none;
+	border-radius: 20%;
+}
+
+.cartBtn:hover {
+	background-color: #c6a58e;
+	color: white;
+}
+
+.cartBtn svg {
+	height: 16px;
+	width: 16px;
+	fill: #c6a58e;
+}
+
+.cartBtn:hover svg {
+	height: 16px;
+	width: 16px;
+	fill: white;
+}

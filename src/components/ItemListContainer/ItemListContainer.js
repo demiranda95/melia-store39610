@@ -1,6 +1,5 @@
 import Banner from '../../assets/banners/banner-principal-no-text.png'
 import './ItemListContainer.css'
-import 'bootstrap'
 
 const ItemListContainer = ({ greeting }) => {
   return (
